@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Hironov/test.github.io/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[テストmdを見よ](https://github.com/Hironov/test.github.io/test.md)
+[テストmdを見よ](https://hironov.github.io/test.github.io/test.md)
 
 ## Markdown
 
